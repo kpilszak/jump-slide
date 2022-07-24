@@ -1,0 +1,13 @@
+.game {
+    height: 400px;
+    width: 500px;
+    background-color: yellow;
+}
+
+.character {
+    height: 70px;
+    width: 40px;
+    position: absolute;
+    bottom: 0px;
+    background-color: red;
+}
